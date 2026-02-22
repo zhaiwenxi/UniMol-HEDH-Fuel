@@ -5,9 +5,9 @@ Pretrained 3D Molecular Representations Enable Data-Efficient Discovery of High-
 
 This repository provides the molecular subsets used in our workflow:
 
-- `gdb13_hc_c11_c13.csv` — GDB13 hydrocarbon subset (C11–C13) for fine-tuning
+- `gdb13_hc_c11_c13.csv` — GDB-13 hydrocarbon subset (C11–C13) for fine-tuning
 - `qme14s_hc_c11_c17.csv` — QMe14S hydrocarbon subset (C11–C17) for continued fine-tuning
-- `gdb17_hc_subset.csv` — GDB17 hydrocarbon subset for screening
+- `gdb17_hc_subset.csv` — GDB-17 hydrocarbon subset for screening
 
 Due to GitHub file size limits, trained checkpoints are hosted on Hugging Face:
 
